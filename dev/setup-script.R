@@ -59,6 +59,8 @@ devtools::document() # to fill NAMESPACE and documentation with ROXYGEN comments
 # or roxygen2::roxygenise() # converts roxygen comments to .Rd files.
 # or [Ctrl + Shift + D] in RStudio
 
+# Alt + Crtl + Shift + r to update documentation
+
 ## Build or load
 # Load the package [CTRL + SHIFT + L] or install-and-reload [CTRL + SHIFT + B]
 
